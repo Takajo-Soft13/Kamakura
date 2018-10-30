@@ -5,5 +5,7 @@
 
 # アトラクション紹介
   <span style="color: blue;">・元寇による戦闘体験(vsモンゴル軍)</span>　　
-  <span style="color: blue;">・鎌倉時代の産業体験</span>　　
+  
+  <span style="color: blue;">・鎌倉時代の産業体験</span>　
+  
   <span style="color: blue;">・承久の乱！島流しアトラクション(vsモンゴル軍)</span>　　
