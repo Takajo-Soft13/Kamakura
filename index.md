@@ -4,5 +4,5 @@
 
 
 # アトラクション紹介
-  <span style="color: blue;">元寇による戦闘体験(vsモンゴル軍)
+  <span style="color: blue;">元寇による戦闘体験(vsモンゴル軍)</span>
   
