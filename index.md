@@ -4,7 +4,7 @@
 
 
 # アトラクション紹介
-  <span style="color: blue;">・元寇による戦闘体験(vsモンゴル軍)</span>　　
+  [<span style="color: blue;">・元寇による戦闘体験(vsモンゴル軍)</span>](https://takajo-soft13.github.io/Kamakura/Genkou)
   
   <span style="color: blue;">・鎌倉時代の産業体験</span>　
   
